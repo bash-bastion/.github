@@ -39,7 +39,7 @@ Has forks of popular packages, including:
 - [fff](https://github.com/bash-bastion/fff) ([original](https://github.com/dylanaraps/fff))
 - [neofetch](https://github.com/bash-bastion/neofetch) ([original](https://github.com/dylanaraps/neofetch))
 - [pfetch](https://github.com/bash-bastion/pfetch) ([original](https://github.com/dylanaraps/pfetch))
-- [shellfire](https://github.com/hyperupcall/shellfire) ([original](https://github.com/shellfire-dev/shellfire))
+- [shellfire](https://github.com/bash-bastion/shellfire) ([original](https://github.com/shellfire-dev/shellfire))
 - [assert.sh](https://github.com/bash-bastion/assert.sh) ([original](https://github.com/lehmannro/assert.sh))
 - [bpm](https://github.com/bash-bastion/bpm) ([original](https://github.com/bpm-rocks/bpm))
 - [bashful](https://github.com/bash-bastion/bashful) ([original](https://github.com/jmcantrell/bashful))
