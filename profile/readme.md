@@ -65,6 +65,7 @@ Other important repositories:
 - [shellharden](https://github.com/anordal/shellharden)
 - [sh](https://github.com/mvdan/sh)
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash)
+- [resholve](https://github.com/abathur/resholve) - Shell resolver
 - [shdoc](https://github.com/reconquest/shdoc)
 - [kcov](https://github.com/SimonKagstrom/kcov)
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck
