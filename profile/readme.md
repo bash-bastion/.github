@@ -43,6 +43,7 @@ Has forks of popular packages, including:
 - [assert.sh](https://github.com/bash-bastion/assert.sh) ([original](https://github.com/lehmannro/assert.sh))
 - [bpm](https://github.com/bash-bastion/bpm) ([original](https://github.com/bpm-rocks/bpm))
 - [bashful](https://github.com/bash-bastion/bashful) ([original](https://github.com/jmcantrell/bashful))
+- [spark](https://github.com/bash-bastion/spark) ([original](https://github.com/holman/spark))
 - [mkdkr](https://github.com/bash-bastion/mkdkr) ([original](https://github.com/rosineygp/mkdkr))
 - [JSON.sh](https://github.com/bash-bastion/JSON.sh) ([original](https://github.com/dominictarr/JSON.sh))
 - [JSONPath.sh](https://github.com/bash-bastion/JSONPath.sh) ([original](https://github.com/bashtools/JSONPath.sh))
