@@ -74,3 +74,4 @@ And other projects including:
 
 - [toml-subset](https://github.com/bash-bastion/toml-subset)
 - [awesome-basalt](https://github.com/bash-bastion/awesome-basalt)
+- [awesome-bash](https://github.com/bash-bastion/awesome-bash)
