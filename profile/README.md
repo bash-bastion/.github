@@ -1,4 +1,4 @@
-<table>
+<!-- <table>
   <tr>
     <th align="center" width="200">
       <p>Bash Libraries</p>
@@ -29,16 +29,36 @@
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
+Applications including:
 
-Has forks of popular packages, including:
+- [basalt](https://github.com/bash-bastion/basalt)
+- [bash_config](https://github.com/bash-bastion/bash_config)
+- [shelltest](https://github.com/bash-bastion/shelltest)
+- [hookah](https://github.com/bash-bastion/hookah)  (archived)
+
+Libraries including:
+
+- [bash-core](https://github.com/bash-bastion/bash-core)
+- [bash-term](https://github.com/bash-bastion/bash-term)
+- [bash-object](https://github.com/bash-bastion/bash-object)
+- [bash-utility](https://github.com/bash-bastion/bash-utility)
+- [bats-all](https://github.com/bash-bastion/bats-all)
+- [bash-algo](https://github.com/bash-bastion/bash-algo)
+- [bash-args](https://github.com/bash-bastion/bash-args)
+- [bash-json](https://github.com/bash-bastion/bash-json)
+- [bash-str](https://github.com/bash-bastion/bash-str)
+- [bash-toml](https://github.com/bash-bastion/bash-toml)
+
+Forks including:
 
 - [bash-oo-framework](https://github.com/bash-bastion/bash-oo-framework) ([original](https://github.com/niieani/bash-oo-framework))
 - [shunit2](https://github.com/bash-bastion/shunit2) ([original](https://github.com/kward/shunit2))
 - [fff](https://github.com/bash-bastion/fff) ([original](https://github.com/dylanaraps/fff))
 - [neofetch](https://github.com/bash-bastion/neofetch) ([original](https://github.com/dylanaraps/neofetch))
 - [pfetch](https://github.com/bash-bastion/pfetch) ([original](https://github.com/dylanaraps/pfetch))
+- [git-scripts](https://github.com/bash-bastion/git-scripts) ([original](https://github.com/jwiegley/git-scripts))
 - [shellfire](https://github.com/bash-bastion/shellfire) ([original](https://github.com/shellfire-dev/shellfire))
 - [assert.sh](https://github.com/bash-bastion/assert.sh) ([original](https://github.com/lehmannro/assert.sh))
 - [bpm](https://github.com/bash-bastion/bpm) ([original](https://github.com/bpm-rocks/bpm))
@@ -50,29 +70,7 @@ Has forks of popular packages, including:
 - [TickTick](https://github.com/bash-bastion/TickTick) ([original](https://github.com/kristopolous/TickTick))
 - [bocker](https://github.com/bash-bastion/bocker) ([original](https://github.com/p8952/bocker))
 
-Some miscellaneous repositories include:
+And other projects including:
 
-- [hookah](https://github.com/bash-bastion/hookah) - Git hooks manager.
-- [toml-subset](https://github.com/bash-bastion/toml-subset) - Subset of TOML defined for Basalt.
-- [awesome-basalt](https://github.com/bash-bastion/awesome-basalt) - Awesome list of Basalt packages.
-
-Other important repositories:
-
-- [bash-preexec](https://github.com/rcaloras/bash-preexec)
-- [basher](https://github.com/basherpm/basher)
-- [bleh.sh](https://github.com/akinomyoga/ble.sh)
-- [bash-completion](https://github.com/scop/bash-completion)
-- [shellharden](https://github.com/anordal/shellharden)
-- [sh](https://github.com/mvdan/sh)
-- [awesome-bash](https://github.com/awesome-lists/awesome-bash)
-- [resholve](https://github.com/abathur/resholve) - Shell resolver
-- [shdoc](https://github.com/reconquest/shdoc)
-- [kcov](https://github.com/SimonKagstrom/kcov)
-- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck
-- [mo](https://github.com/tests-always-included/mo) - Mustache
-- [bash_unit](https://github.com/pgrange/bash_unit) - Testing framework
-- [argbash](https://github.com/matejak/argbash) - Argument parser
-- [modernish](https://github.com/modernish/modernish) - Reusable POSIX
-- [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates
-- [Reddit link](https://old.reddit.com/r/bash/comments/10moz5g/bashkit_v1/j6c4914/)
-- [bashup](https://github.com/bashup)
+- [toml-subset](https://github.com/bash-bastion/toml-subset)
+- [awesome-basalt](https://github.com/bash-bastion/awesome-basalt)
