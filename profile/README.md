@@ -55,6 +55,7 @@ Forks including:
 
 - [bash-oo-framework](https://github.com/bash-bastion/bash-oo-framework) ([original](https://github.com/niieani/bash-oo-framework))
 - [shunit2](https://github.com/bash-bastion/shunit2) ([original](https://github.com/kward/shunit2))
+- [bashblog](https://github.com/bash-bastion/bashblog) ([original](https://github.com/cfenollosa/bashblog))
 - [fff](https://github.com/bash-bastion/fff) ([original](https://github.com/dylanaraps/fff))
 - [neofetch](https://github.com/bash-bastion/neofetch) ([original](https://github.com/dylanaraps/neofetch))
 - [pfetch](https://github.com/bash-bastion/pfetch) ([original](https://github.com/dylanaraps/pfetch))
