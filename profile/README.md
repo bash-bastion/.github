@@ -70,6 +70,7 @@ Forks including:
 - [JSONPath.sh](https://github.com/bash-bastion/JSONPath.sh) ([original](https://github.com/bashtools/JSONPath.sh))
 - [TickTick](https://github.com/bash-bastion/TickTick) ([original](https://github.com/kristopolous/TickTick))
 - [bocker](https://github.com/bash-bastion/bocker) ([original](https://github.com/p8952/bocker))
+- [xiringuito](https://github.com/bash-bastion/xiringuito) ([original](https://github.com/ivanilves/xiringuito))
 
 And other projects including:
 
